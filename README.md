@@ -10,4 +10,8 @@ Step 2: Create new project, Name your project and choose NodeMCU
 
 Step 3: Click the setting icon in the blynk app, copy the Auth token and make it accessible on your computer throught pastebin or email the auth code.
 
+Step 4: Go to https://examples.blynk.cc, and choose DHT11 from examples, and device as nodeMCU, also enter the auth code and copy the code and paste in the arduino IDE.
+
+
+
 
