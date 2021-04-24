@@ -18,5 +18,8 @@ Step 5: Update the wifi address and password. Remember the wifi ssid and passwor
 
 ![image](https://user-images.githubusercontent.com/41247468/115965687-1b713b80-a4df-11eb-95e3-a16a971ec031.png)
 
+Step 6: Scroll to the setup block and comment the default first line, uncomment the line shown in the image below. Change the address to k12code.org and change 80 to 8080.
+
+![image](https://user-images.githubusercontent.com/41247468/115965767-8884d100-a4df-11eb-91d1-05ae09bfaffc.png)
 
 
