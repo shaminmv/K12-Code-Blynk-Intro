@@ -12,6 +12,11 @@ Step 3: Click the setting icon in the blynk app, copy the Auth token and make it
 
 Step 4: Go to https://examples.blynk.cc, and choose DHT11 from examples, and device as nodeMCU, also enter the auth code and copy the code and paste in the arduino IDE.
 
+![image](https://user-images.githubusercontent.com/41247468/115965577-c6352a00-a4de-11eb-9594-68423a30a468.png)
+
+Step 5: Update the wifi address and password. Remember the wifi ssid and password are case sensetive.
+
+![image](https://user-images.githubusercontent.com/41247468/115965687-1b713b80-a4df-11eb-95e3-a16a971ec031.png)
 
 
 
